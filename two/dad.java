@@ -8,6 +8,6 @@ public class dad {
     public void work() {
         System.out.println("Dad is working hard.");
         getClass().getName();
-        System.out.println("IN DAD JAVA FILE I DID CHANGES SOME MORE");    
+        System.out.println("getClass().getName() = " + getClass().getName());    
     }
 }
